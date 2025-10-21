@@ -1,5 +1,5 @@
 #include "checkout.h"
-#include "payment_mode.h"
+#include "paymentmode.h"
 #include <iostream>
 #include <cassert>
 
