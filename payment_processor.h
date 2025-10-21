@@ -1,7 +1,7 @@
 #ifndef DC_PAYMENTPROCESSOR_HPP_INCLUDED
 #define DC_PAYMENTPROCESSOR_HPP_INCLUDED
 
-#include "payment_mode.h"
+#include "paymentmode.h"
 
 class PaymentProcessor {
 public:
