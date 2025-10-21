@@ -1,7 +1,7 @@
 #ifndef DC_CHECKOUT_HPP_INCLUDED
 #define DC_CHECKOUT_HPP_INCLUDED
 
-#include "payment_mode.h"
+#include "paymentmode.h"
 
 class Checkout {
 public:
